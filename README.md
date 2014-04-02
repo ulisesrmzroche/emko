@@ -1,4 +1,4 @@
 ember-koa-blueprint
 ===================
 
-Koa optimized for Ember
+Koa backend optimized for Ember.
