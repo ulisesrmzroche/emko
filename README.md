@@ -1,4 +1,4 @@
-ember-koa-blueprint
+Salamander
 ===================
 
-Koa backend optimized for Ember.
+Salamander generates file-servers and API templates optimized to serve your Ember app.
