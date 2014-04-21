@@ -1,0 +1,33 @@
+{
+  "name": "salamander",
+  "version": "0.1.0",
+  "description": "Generates file-server and API templates powered by koa and optimized for Ember",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ulisesrmzroche/salamander.git"
+  },
+  "keywords": [
+    "ember",
+    "koa",
+    "generator",
+    "application",
+    "template",
+    "app"
+  ],
+  "author": "ulisesermzroche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulisesrmzroche/salamander/issues"
+  },
+  "homepage": "https://github.com/ulisesrmzroche/salamander",
+  "engine": {
+    "node": "0.11.12"
+  },
+  "devDependencies": {
+    "semver": "^2.2.1"
+  }
+}
