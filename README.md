@@ -11,7 +11,6 @@ web app become a big success despite having a small footprint and relatively no 
 * ES6
 * 1st class Ember support
 * Service Oriented Architecture
-* 
 
 ## Addendum
 
